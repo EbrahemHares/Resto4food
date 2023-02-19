@@ -1,0 +1,16 @@
+{
+  "name": "food-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://EbrahemHares.github.io/Resto",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
